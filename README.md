@@ -1,6 +1,7 @@
 # linuxadminbooks.com
+[![github pages](https://github.com/linuxadminbooks/linuxadminbooks.com/actions/workflows/gh-pages.yaml/badge.svg?branch=main)](https://github.com/linuxadminbooks/linuxadminbooks.com/actions/workflows/gh-pages.yaml)
 
-Repo for the source for linuxadminbooks.com
+Repo and source for [linuxadminbooks.com](https://linuxadminbooks.com)
 
 ## What
 * Hugo
