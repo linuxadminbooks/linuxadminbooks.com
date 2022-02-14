@@ -4,17 +4,22 @@ title = 'Linux Admin Books'
 
 # Book configuration
 disablePathToLower = true
-enableGitInfo = truwe
+enableGitInfo = true
 
 [menu]
-# [[menu.before]]
+
+[[menu.before]]
+  name = "Linux Admin Books"
+  url = "/"
+  weight = 0
+
 [[menu.after]]
   name = "Github"
   url = "https://github.com/LinuxAdminBooks"
   weight = 10
 
 [[menu.after]]
-  name = "ThePotato.Tech"
+  name = "thepotato.tech"
   url = "https://thepotato.tech"
 
 [module]
